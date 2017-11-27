@@ -1,0 +1,23 @@
+.mesazhi{
+	margin-top: 10px;
+}
+
+#message_field{
+	width: 900px;
+    height: 444px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    resize: none;
+}
+
+
+label#titulliError, label#pershkrimiError,label#filechooserError{
+	color: red;
+}
+
+#shtetetOption{
+	border: 1px black solid;
+}

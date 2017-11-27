@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Learn Center | Admissions</title>
+<meta charset="utf-8">
+<link rel="stylesheet" href="css/reset.css" type="text/css" media="all">
+<link rel="stylesheet" href="css/layout.css" type="text/css" media="all">
+<link rel="stylesheet" href="css/style.css" type="text/css" media="all">
+<script type="text/javascript" src="js/jquery-3.2.1.min.js" ></script>
+<script type="text/javascript" src="js/cufon-yui.js"></script>
+<script type="text/javascript" src="js/cufon-replace.js"></script>
+<script type="text/javascript" src="js/Molengo_400.font.js"></script>
+<script type="text/javascript" src="js/Expletus_Sans_400.font.js"></script>
+<script src="js/jquery.js"></script>
+<script src="js/bxslider.js"></script>
+<link rel="stylesheet" type="text/css" href="css/style.css">
+<link rel="stylesheet" type="text/css" href="css/bxslider.css">
+
+</head>
+<body id="page5">
+<div class="body1">
+  <div class="main">
+    <!-- header -->
+   <?php include('includes/header.php');?>
+    <!-- / header -->
+  </div>
+    <div class="Slider">
+    <ul class="bxslider">
+      <li><img src="images/tilf-shift-wallpaper.jpg" /></li>
+      <li><img src="images/23.jpg" /></li>
+      <li><img src="images/pine-forest-wallpaper.jpg" /></li>
+      <li><img src="images/5460748-grunge-wallpaper.jpg" /></li>
+    </ul>
+    <script type="text/javascript">$(document).ready(function(){
+  $('.bxslider').bxSlider();
+});</script>
+  </div>
+</div>
+<div class="body2">
+  <div class="main">
+    <!-- content -->
+    <section id="content">
+      <div class="box1">
+        <div class="wrapper">
+          <article class="col1">
+            <div class="pad_left1">
+              <h2 class="pad_bot1">Our Mission</h2>
+              <p class="pad_bot1 pad_top2"><strong>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</strong></p>
+              Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur sint occaecatcupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. </div>
+            <div class="pad_left1">
+              <h2 class="pad_bot1">Terms of Admission</h2>
+            </div>
+            <div class="wrapper">
+              <figure class="left marg_right1"><img src="images/page5_img1.jpg" alt=""></figure>
+              <p class="pad_top2"><strong>At vero eos et accusamus et iusto odio</strong> dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt.</p>
+            </div>
+            <div class="wrapper pad_top2">
+              <div class="pad_left1">
+                <div class="box2">
+                  <div class="wrapper">
+                    <div class="cols">
+                      <ul class="list3">
+                        <li><a href="#">Sed ut perspiiatis unde omnis iste</a></li>
+                        <li><a href="#">Natus error sit volupatem accusantiu</a></li>
+                        <li><a href="#">Doloremque laudatium, totam rem</a></li>
+                      </ul>
+                    </div>
+                    <div class="cols pad_left2">
+                      <ul class="list3">
+                        <li><a href="#">Nemo enim ipsam volptatem quia</a></li>
+                        <li><a href="#">Voluptas sit aspernatur aut odit autgit</a></li>
+                        <li><a href="#">Sed quia consequuntur magni</a></li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <a href="#" class="button marg_top1"><span><span>Read More</span></span></a> </article>
+          <article class="col2 pad_left2">
+            <div class="pad_left1">
+              <h2>Important Dates</h2>
+            </div>
+            <div class="wrapper"> <span class="date">27</span>
+              <p class="pad_top2"><a href="#">April, 2011</a><br>
+                Sed ut perspiciatis undmnis accusantium doloremq.</p>
+            </div>
+            <div class="wrapper"> <span class="date">25</span>
+              <p class="pad_top2"><a href="#">April, 2011</a><br>
+                Laudantium, totam remiam, tore veritatis et.</p>
+            </div>
+            <div class="wrapper"> <span class="date">19</span>
+              <p class="pad_top2"><a href="#">April, 2011</a><br>
+                Quasi architecto beatae vitae ipsam voluptatem.</p>
+            </div>
+            <div class="wrapper"> <span class="date">18</span>
+              <p class="pad_top2"><a href="#">April, 2011</a><br>
+                Voluptas sit aspernatur aut sequuntur magni.</p>
+            </div>
+            <div class="wrapper pad_bot2"> <span class="date">12</span>
+              <p class="pad_top2"><a href="#">April, 2011</a><br>
+                Sed ut perspiciatis undmnis accusantium dolorem.</p>
+            </div>
+            <a href="#" class="button"><span><span>Read More</span></span></a> </article>
+        </div>
+      </div>
+    </section>
+    <!-- content -->
+    <!-- footer -->
+   <?php include('includes/footer.php');?>
+    
+      </div>
+    </footer>
+    <!-- / footer -->
+  </div>
+</div>
+
+</body>
+</html>s
